@@ -1,0 +1,4 @@
+SP;15;15;
+DM;50;70;15;-300;
+TP;85;15;5;10;
+B;8;142;10;10;0;level_select_button.png;false;
